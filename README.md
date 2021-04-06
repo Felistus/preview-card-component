@@ -24,8 +24,8 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop view](./design/Desktop-preview.jpeg)
-![Mobile view](./design/Mobile.jpeg)
-![Active state on hover](./design/Active-state.jpeg)
+![Mobile view](./design/Mobile.jpg)
+![Active state on hover](./design/Active-states.jpg)
 
 - Solution URL: [Preview Card Component](https://felistus.github.io/preview-card-component/)
 - Live Site URL: [Repository Link](https://github.com/Felistus/preview-card-component)
