@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](./design/Desktop-preview.jpeg)
+![Desktop view](./design/Desktop-preview.jpg)
 ![Mobile view](./design/Mobile.jpg)
 ![Active state on hover](./design/Active-states.jpg)
 
