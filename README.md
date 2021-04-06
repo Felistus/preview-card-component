@@ -27,8 +27,8 @@ Users should be able to:
 ![Mobile view](./design/Mobile.jpeg)
 ![Active state on hover](./design/Active-state.jpeg)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Preview Card Component](https://felistus.github.io/preview-card-component/)
+- Live Site URL: [Repository Link](https://github.com/Felistus/preview-card-component)
 
 ### Built with
 
